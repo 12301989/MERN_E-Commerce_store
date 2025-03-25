@@ -1,1 +1,1 @@
-# MERN_E-Commerce_store
+# MERN_E-Commerce
